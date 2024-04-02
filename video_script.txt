@@ -1,0 +1,3 @@
+Hello everyone, in this video I am going to show how to get irradiance and weather data from the Solcast platform. I will show you how to do it manually directly from the website and through API calls.
+
+To get started, we need to create a new account. Visit the Solcast website, the link can be found in the description of this video. Click on *Free Sign-up*, here choose the type of account you are interested in, I will choose researcher because I am a student. In this step, I need to provide information about my university and some personal information. I will do this and I will come back.
